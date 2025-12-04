@@ -60,7 +60,7 @@ html {
   display: none;
 }
 .back {
-  background-image: url(images/bg.jpg);
+  background-image: url(/bg.jpg);
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -824,3 +824,4 @@ h5 {
     width: 80%;
   }
 }
+
